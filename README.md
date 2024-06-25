@@ -11,7 +11,7 @@ En dehors de l'informatique, je suis un amateur enthousiaste des sports de natur
 
 Mon objectif est de continuer à élargir mes connaissances et compétences dans le domaine du développement tout en intégrant mes passions personnelles dans mes projets. Je suis toujours à la recherche de nouvelles opportunités pour créer des expériences numériques innovantes et enrichissantes, tout en maintenant un équilibre dynamique entre ma carrière professionnelle et mes activités personnelles.
 
-## 🔧 Technologies & Outils
+## Technologies & Outils
 
 ### Acquis
 
@@ -28,7 +28,7 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![CryEngine](https://img.shields.io/badge/-CryEngine-000000?style=flat-square&logo=cryengine&logoColor=white)
 
-## 🚀 Projets
+## Projets
 
 ### Tutoriel
 
@@ -36,29 +36,18 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
   
 ### Développement Web
 
-- [Projet Web 1](lien_vers_projet) : Brève description du projet Web 1.
+- [Nom](lien_vers_projet) : Brève description du projet Web 1.
 
-### SEO
 
-- Aucun
-
-### 3D
-
-- Aucun
-
-### Jeux Vidéo
-
-- Aucun
-
-## 📈 Statistiques GitHub
+## Statistiques GitHub
 
 ![Les statistiques GitHub de votre nom](https://github-readme-stats.vercel.app/api?username=AlchTech&show_icons=true&theme=radical)
 
-## 📫 Contact
+## Contact
 
 - Email : [harmonyfidelis@gmail.com](mailto:harmonyfidelis@gmail.com)
 - LinkedIn : [Jérémy Salettes-Wozniak](lien_vers_linkedin)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlchTech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
