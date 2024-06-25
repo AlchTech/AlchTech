@@ -13,8 +13,6 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ## Technologies & Outils
 
-![Compétences en Langages](https://img.shields.io/badge/Langages-JavaScript%20%7C%20HTML%20%7C%20CSS%20%7C%20C++-blue)
-
 ### Acquis
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
