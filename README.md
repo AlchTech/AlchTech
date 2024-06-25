@@ -35,13 +35,11 @@ Je suis un développeur passionné par l'informatique, les jeux vidéo et les sp
 
 ### SEO
 
-- [Projet Mobile 1](lien_vers_projet) : Brève description du projet Mobile 1.
-- [Projet Mobile 2](lien_vers_projet) : Brève description du projet Mobile 2.
+- Aucun
 
 ### 3D
 
-- [Projet IA 1](lien_vers_projet) : Brève description du projet IA 1.
-- [Projet IA 2](lien_vers_projet) : Brève description du projet IA 2.
+- Aucun
 
 ### Jeux Vidéo
 
@@ -54,8 +52,8 @@ Je suis un développeur passionné par l'informatique, les jeux vidéo et les sp
 ## 📫 Contact
 
 - Email : [harmonyfidelis@gmail.com](mailto:harmonyfidelis@gmail.com)
-- LinkedIn : [Votre Profil LinkedIn](lien_vers_linkedin)
+- LinkedIn : [Jérémy Salettes-Wozniak](lien_vers_linkedin)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlchTech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
