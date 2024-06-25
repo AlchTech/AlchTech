@@ -3,7 +3,7 @@
 
 # Bonjour, je suis  Jérémy Salettes-Wozniak 👋
 
-Je suis un développeur passionné par l'informatique, les jeux vidéo et les sports de nature. Mon intérêt pour l'informatique va au-delà du simple développement; j'apprécie explorer les dernières technologies et tendances, notamment dans les domaines du développement web (HTML, CSS, JavaScript) et de la programmation orientée objet (C++). Je trouve particulièrement gratifiant de résoudre des problèmes complexes et de créer des solutions logicielles efficaces qui améliorent l'expérience utilisateur.
+Je suis un développeur passionné par l'informatique, les jeux vidéo et les sports de nature. Mon intérêt pour l'informatique va au-delà du simple développement; j'apprécie explorer les dernières technologies et tendances, notamment dans les domaines du développement web (HTML, CSS, JavaScript) et de la programmation orientée objet. Je trouve particulièrement gratifiant de résoudre des problèmes complexes et de créer des solutions logicielles efficaces qui améliorent l'expérience utilisateur.
 
 Mes passions pour les jeux vidéo et l'animation 3D nourrissent ma créativité.
 
