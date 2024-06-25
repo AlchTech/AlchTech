@@ -3,7 +3,16 @@
 
 # Bonjour, je suis  Jérémy Salettes-Wozniak 👋
 
-Je suis un développeur passionné par l'informatique, les jeux vidéo et les sports de nature.
+
+Bien sûr ! Voici une version plus détaillée basée sur vos passions :
+
+Je suis un développeur passionné par l'informatique, les jeux vidéo et les sports de nature. Mon intérêt pour l'informatique va au-delà du simple développement; j'apprécie explorer les dernières technologies et tendances, notamment dans les domaines du développement web (HTML, CSS, JavaScript) et de la programmation orientée objet (C++). Je trouve particulièrement gratifiant de résoudre des problèmes complexes et de créer des solutions logicielles efficaces qui améliorent l'expérience utilisateur.
+
+Mes passions pour les jeux vidéo et l'animation 3D nourrissent ma créativité.
+
+En dehors de l'informatique, je suis un amateur enthousiaste des sports de nature. Ces activités me permettent de me ressourcer, tout en cultivant des compétences telles que la patience, la concentration et le travail d'équipe, essentielles aussi bien dans le développement de logiciels que dans les activités en plein air.
+
+Mon objectif est de continuer à élargir mes connaissances et compétences dans le domaine du développement tout en intégrant mes passions personnelles dans mes projets. Je suis toujours à la recherche de nouvelles opportunités pour créer des expériences numériques innovantes et enrichissantes, tout en maintenant un équilibre dynamique entre ma carrière professionnelle et mes activités personnelles.
 
 ## 🔧 Technologies & Outils
 
@@ -31,7 +40,6 @@ Je suis un développeur passionné par l'informatique, les jeux vidéo et les sp
 ### Développement Web
 
 - [Projet Web 1](lien_vers_projet) : Brève description du projet Web 1.
-- [Projet Web 2](lien_vers_projet) : Brève description du projet Web 2.
 
 ### SEO
 
