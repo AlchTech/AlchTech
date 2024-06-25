@@ -68,5 +68,5 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 - LinkedIn : [Jérémy Salettes-Wozniak](lien_vers_linkedin)
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlchTech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlchTech&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
 
