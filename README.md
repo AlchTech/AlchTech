@@ -6,20 +6,20 @@
 
 # Table des Matières
 
-1. [Introduction](#introduction)
-2. [Technologies & Outils](#technologies--outils)
-    1. [Acquis](#acquis)
-    2. [En cours d'apprentissage](#en-cours-dapprentissage)
-    3. [Outils](#outils)
-3. [Projets](#projets)
-    1. [Tutoriel](#tutoriel)
-    2. [Développement Web](#développement-web)
-    3. [Développement d'application](#développement-dapplication)
-    4. [Développement mobile](#développement-mobile)
-    5. [3D](#3d)
-    6. [Jeux Vidéo](#jeux-vidéo)
-4. [Contact](#contact)
-5. [Support](#support)
+- [Introduction](#introduction)
+-  [Technologies & Outils](#technologies--outils)
+    - [Acquis](#acquis)
+    - [En cours d'apprentissage](#en-cours-dapprentissage)
+    - [Outils](#outils)
+- [Projets](#projets)
+    - [Tutoriel](#tutoriel)
+    - [Développement Web](#développement-web)
+    - [Développement d'application](#développement-dapplication)
+    - [Développement mobile](#développement-mobile)
+    - [3D](#3d)
+    - [Jeux Vidéo](#jeux-vidéo)
+- [Contact](#contact)
+- [Support](#support)
 
 # Bonjour, je suis  Jérémy Salettes-Wozniak
 
