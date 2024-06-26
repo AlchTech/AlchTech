@@ -1,7 +1,32 @@
-![Visiteurs](https://komarev.com/ghpvc/?username=AlchTech&color=blue) [![GitHub followers](https://img.shields.io/github/followers/AlchTech?label=Follow&style=social)](https://github.com/AlchTech) ![GitHub stars](https://img.shields.io/github/stars/AlchTech?style=social) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-saletteswozniak/)
 
+[![GitHub followers](https://img.shields.io/github/followers/AlchTech?label=Follow&style=for-the-badge)](https://github.com/AlchTech) 
+![GitHub stars](https://img.shields.io/github/stars/AlchTech?style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-harmonyfidelis@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votreadresse@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-saletteswozniak/)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/votreprofil)
 
-# Bonjour, je suis  Jérémy Salettes-Wozniak 👋
+# Table des Matières
+
+1. [Introduction](#introduction)
+2. [Technologies & Outils](#technologies--outils)
+    1. [Acquis](#acquis)
+    2. [En cours d'apprentissage](#en-cours-dapprentissage)
+    3. [Outils](#outils)
+3. [Projets](#projets)
+    1. [Tutoriel](#tutoriel)
+    2. [Développement Web](#développement-web)
+    3. [Développement d'application](#développement-dapplication)
+    4. [Développement mobile](#développement-mobile)
+    5. [3D](#3d)
+    6. [Jeux Vidéo](#jeux-vidéo)
+4. [Contact](#contact)
+5. [Support](#support)
+
+# Bonjour, je suis  Jérémy Salettes-Wozniak
+
+<img src="./images/sports.png" alt="Texte alternatif" class="img-responsive">
+
+---
 
 Je suis un développeur passionné par l'informatique, les jeux vidéo et les sports de nature. Mon intérêt pour l'informatique va au-delà du simple développement; j'apprécie explorer les dernières technologies et tendances, notamment dans les domaines du développement web (HTML, CSS, JavaScript) et de la programmation orientée objet. Je trouve particulièrement gratifiant de résoudre des problèmes complexes et de créer des solutions logicielles efficaces qui améliorent l'expérience utilisateur.
 
@@ -12,6 +37,14 @@ En dehors de l'informatique, je suis un amateur enthousiaste des sports de natur
 Mon objectif est de continuer à élargir mes connaissances et compétences dans le domaine du développement tout en intégrant mes passions personnelles dans mes projets. Je suis toujours à la recherche de nouvelles opportunités pour créer des expériences numériques innovantes et enrichissantes, tout en maintenant un équilibre dynamique entre ma carrière professionnelle et mes activités personnelles.
 
 ## Technologies & Outils
+
+<img src="./images/competences.png" alt="Texte alternatif" class="img-responsive">
+
+---
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlchTech&theme=default)
 
 ### Acquis
 
@@ -46,26 +79,70 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ## Projets
 
+<img src="./images/containers.png" alt="Texte alternatif" class="img-responsive">
+
+---
+
 ### Tutoriel
 
-- Aucun
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   
 ### Développement Web
 
-- [Nom](lien_vers_projet) : Brève description du projet Web 1.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
 
 
-## Statistiques GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlchTech&theme=default)
+### Développement d'application
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlchTech\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
 
+
+### Développement mobile
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+
+
+### 3D
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+
+
+### Jeux Vidéo
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
 
 ## Contact
 
-- Email : [harmonyfidelis@gmail.com](mailto:harmonyfidelis@gmail.com)
-- LinkedIn : [Jérémy Salettes-Wozniak](lien_vers_linkedin)
+[![Email](https://img.shields.io/badge/Email-D%C3%A9marrer%20un%20email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votreadresse@email.com)
 
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlchTech&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votreprofil/)
 
+## Support
+
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/votreprofil)
+
+
+<!-- CSS -->
+<style>
+  .img-responsive {
+    width: 100%;
+    height: 15rem;
+    display: block;
+    object-fit: cover;
+  }
+</style>
