@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="./assets/css/style.css">
-
 [![GitHub followers](https://img.shields.io/github/followers/AlchTech?label=Follow&style=for-the-badge)](https://github.com/AlchTech) 
 ![GitHub stars](https://img.shields.io/github/stars/AlchTech?style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-harmonyfidelis@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votreadresse@email.com)
@@ -25,7 +23,7 @@
 
 # Bonjour, je suis  Jérémy Salettes-Wozniak
 
-<img src="./assets/images/sports.png" alt="Texte alternatif" class="img-responsive">
+<img src="./assets/images/sports.png" alt="Texte alternatif" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;>
 
 ---
 
@@ -39,7 +37,7 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ## Technologies & Outils
 
-<img src="./assets/images/competences.png" alt="Texte alternatif" class="img-responsive">
+<img src="./assets/images/competences.png" alt="Texte alternatif" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;>
 
 ---
 
@@ -80,7 +78,7 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ## Projets
 
-<img src="./assets/images/containers.png" alt="Texte alternatif" class="img-responsive">
+<img src="./assets/images/containers.png" alt="Texte alternatif" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;>
 
 ---
 
