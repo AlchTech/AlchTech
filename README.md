@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="./assets/css/style.css">
 
 [![GitHub followers](https://img.shields.io/github/followers/AlchTech?label=Follow&style=for-the-badge)](https://github.com/AlchTech) 
 ![GitHub stars](https://img.shields.io/github/stars/AlchTech?style=for-the-badge)
@@ -24,7 +25,7 @@
 
 # Bonjour, je suis  Jérémy Salettes-Wozniak
 
-<img src="./images/sports.png" alt="Texte alternatif" class="img-responsive">
+<img src="./assets/images/sports.png" alt="Texte alternatif" class="img-responsive">
 
 ---
 
@@ -38,7 +39,7 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ## Technologies & Outils
 
-<img src="./images/competences.png" alt="Texte alternatif" class="img-responsive">
+<img src="./assets/images/competences.png" alt="Texte alternatif" class="img-responsive">
 
 ---
 
@@ -79,7 +80,7 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ## Projets
 
-<img src="./images/containers.png" alt="Texte alternatif" class="img-responsive">
+<img src="./assets/images/containers.png" alt="Texte alternatif" class="img-responsive">
 
 ---
 
@@ -135,14 +136,3 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 ## Support
 
 [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/votreprofil)
-
-
-<!-- CSS -->
-<style>
-  .img-responsive {
-    width: 100%;
-    height: 15rem;
-    display: block;
-    object-fit: cover;
-  }
-</style>
