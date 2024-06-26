@@ -23,7 +23,7 @@
 
 # Bonjour, je suis  Jérémy Salettes-Wozniak
 
-<img src="./assets/images/sports.png" alt="Texte alternatif" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;>
+<img src="./assets/images/sports.png" alt="Texte alternatif" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;">
 
 ---
 
@@ -37,7 +37,7 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ## Technologies & Outils
 
-<img src="./assets/images/competences.png" alt="Texte alternatif" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;>
+<img src="./assets/images/competences.png" alt="Texte alternatif" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;">
 
 ---
 
@@ -78,7 +78,7 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ## Projets
 
-<img src="./assets/images/containers.png" alt="Texte alternatif" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;>
+<img src="./assets/images/containers.png" alt="Texte alternatif" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;">
 
 ---
 
