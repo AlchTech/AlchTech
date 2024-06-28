@@ -84,18 +84,14 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ### Tutoriel
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
   
 ### Développement Web
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Finance-App)](https://github.com/AlchTech/Finance-App)
 
 
 ### Développement d'application
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
