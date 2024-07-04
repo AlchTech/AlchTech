@@ -4,23 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-saletteswozniak/)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/votreprofil)
 
-# Table des Matières
-
-- [Introduction](#introduction)
--  [Technologies & Outils](#technologies--outils)
-    - [Acquis](#acquis)
-    - [En cours d'apprentissage](#en-cours-dapprentissage)
-    - [Outils](#outils)
-- [Projets](#projets)
-    - [Tutoriel](#tutoriel)
-    - [Développement Web](#développement-web)
-    - [Développement d'application](#développement-dapplication)
-    - [Développement mobile](#développement-mobile)
-    - [3D](#3d)
-    - [Jeux Vidéo](#jeux-vidéo)
-- [Contact](#contact)
-- [Support](#support)
-
 # Bonjour, je suis  Jérémy Salettes-Wozniak
 
 <img src="./assets/images/sports.png" alt="Texte alternatif" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;">
@@ -34,6 +17,22 @@ Mes passions pour les jeux vidéo et l'animation 3D nourrissent ma créativité.
 En dehors de l'informatique, je suis un amateur enthousiaste des sports de nature. Ces activités me permettent de me ressourcer, tout en cultivant des compétences telles que la patience, la concentration et le travail d'équipe, essentielles aussi bien dans le développement de logiciels que dans les activités en plein air.
 
 Mon objectif est de continuer à élargir mes connaissances et compétences dans le domaine du développement tout en intégrant mes passions personnelles dans mes projets. Je suis toujours à la recherche de nouvelles opportunités pour créer des expériences numériques innovantes et enrichissantes, tout en maintenant un équilibre dynamique entre ma carrière professionnelle et mes activités personnelles.
+
+## Table des Matières
+
+-  [Technologies & Outils](#technologies--outils)
+    - [Acquis](#acquis)
+    - [En cours d'apprentissage](#en-cours-dapprentissage)
+    - [Outils](#outils)
+- [Projets](#projets)
+    - [Tutoriel](#tutoriel)
+    - [Développement Web](#développement-web)
+    - [Développement d'application](#développement-dapplication)
+    - [Développement mobile](#développement-mobile)
+    - [3D](#3d)
+    - [Jeux Vidéo](#jeux-vidéo)
+- [Contact](#contact)
+- [Support](#support)
 
 ## Technologies & Outils
 
