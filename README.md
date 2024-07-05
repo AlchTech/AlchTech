@@ -83,7 +83,7 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ### Tutoriel
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=AlchTech)](https://github.com/AlchTech/AlchTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)](https://github.com/AlchTech/HTML)
   
 ### Développement Web
 
