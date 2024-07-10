@@ -80,6 +80,10 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 <img src="./assets/images/containers.png" alt="Texte alternatif" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;">
 
 ---
+### Organisation
+[HarmonyFidelis](https://github.com/HarmonyFidelis) 
+
+[OpenClassroom](https://github.com/OpenClassroom-Jeremy-Salettes-Wozniak)
 
 ### Tutoriel
 
