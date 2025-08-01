@@ -132,4 +132,5 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ## Support
 
-[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/votreprofil)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon&logoColor=white)]([https://www.patreon.com/votreprofil](https://www.patreon.com/preview/campaign?u=69467720&fan_landing=true&view_as=public))
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=LCNUQKQAJL5VS)
