@@ -44,10 +44,9 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 [![HTML](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)](https://github.com/AlchTech/HTML)
 
 ### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
-[![Finance-App](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Finance-App)](https://github.com/AlchTech/Finance-App)
 
 ### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
-[![HF Dev Web](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=DevWebOrg)](https://github.com/AlchTech/DevWebOrg)
+[![HarmonyFidelis-Web](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HarmonyFidelis-Web)](https://github.com/HarmonyFidelis-Web)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -63,10 +62,9 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 [![Python Base](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Python-Intro)](https://github.com/AlchTech/Python-Intro)
 
 ### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
-[![CLI Tool](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=CLITool)](https://github.com/AlchTech/CLITool)
 
 ### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
-[![HF Dev Logiciel](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=DevSoftOrg)](https://github.com/AlchTech/DevSoftOrg)
+[![HarmonyFidelis-Software](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HarmonyFidelis-Software)](https://github.com/HarmonyFidelis-Software)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -78,30 +76,25 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
-[![Crypto101](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Crypto101)](https://github.com/AlchTech/Crypto101)
 
 ### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
-[![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Finance-Tracker)](https://github.com/AlchTech/Finance-Tracker)
 
 ### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
-[![HF Finance](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=FinanceOrg)](https://github.com/AlchTech/FinanceOrg)
+[![HarmonyFidelis-Finances](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HarmonyFidelis-Finances)](https://github.com/HarmonyFidelis-Finances)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🧊 Modélisation & 3D
 
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Substance 3D](https://img.shields.io/badge/-Substance3D-000000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
-[![Blender Basics](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Blender-Basics)](https://github.com/AlchTech/Blender-Basics)
+[![Blender](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Blender-Basics)](https://github.com/AlchTech/Blender)
 
 ### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
-[![3D Assets](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=3D-Assets)](https://github.com/AlchTech/3D-Assets)
 
 ### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
-[![HF 3D](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HF-3D)](https://github.com/AlchTech/HF-3D)
+[![HarmonyFidelis-3D](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HarmonyFidelis-3D)](https://github.com/HarmonyFidelis-3D)
 
 ---
 
