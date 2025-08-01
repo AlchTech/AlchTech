@@ -28,6 +28,7 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 - [💖 Support](#-support)
 
 ---
+<img src="./assets/images/sports.png" alt="Sports de nature" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;">
 
 ## 💻 Développement Web
 
@@ -36,10 +37,8 @@ Ce domaine couvre la conception et la réalisation de sites et applications web,
 JavaScript, PHP, et bases de données. 
 </pre>
 
-### 📂 Formations  
-Plusieurs parcours de formation en ligne ont permis de consolider mes compétences en HTML, CSS, JavaScript et PHP, avec une attention particulière à l’accessibilité et au responsive design. Ces formations sont complétées par des exercices pratiques et la réalisation de mini-projets.
-
-[![HTML](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)](https://github.com/AlchTech/HTML)
+### Technologies  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -47,17 +46,20 @@ Plusieurs parcours de formation en ligne ont permis de consolider mes compétenc
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Prestashop](https://img.shields.io/badge/-Prestashop-FF3366?style=for-the-badge&logo=prestashop&logoColor=white)
 
-### 📂 Projets  
-Projets réalisés dans le cadre de formations ou d’apprentissages spécifiques.
+### Formations  
+Parcours de formation en HTML, CSS, JavaScript et PHP avec un focus sur l’accessibilité, le responsive design, et les bonnes pratiques de développement web.
 
-### 📂 Organisations  
-Organisations qui centralisent la gestion de tous mes développements personnels, privés et publics, hors cadre éducatif.
+### Projets  
+Réalisation de sites web complets, de mini-APIs et d’interfaces dynamiques dans le cadre de formations ou projets personnels.
 
-[<img src="https://github.com/HarmonyFidelis-Web.png" width="150" alt="HarmonyFidelis-Web" />](https://github.com/HarmonyFidelis-Web)
-
-
+### Organisations  
+| Logo | Nom de l'organisation | Description | Lien |
+|------|------------------------|-------------|------|
+| [![HFW](https://github.com/HarmonyFidelis-Web.png)](https://github.com/HarmonyFidelis-Web) | HarmonyFidelis-Web | Centralise tous mes développements personnels, privés et publics, hors cadre éducatif. | [🔗 Accéder](https://github.com/HarmonyFidelis-Web) |
 
 ---
+
+<img src="./assets/images/sports.png" alt="Sports de nature" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;">
 
 ## 🧠 Développement Logiciel
 
@@ -66,33 +68,38 @@ Ce domaine se concentre sur la création de logiciels, scripts et outils informa
 tâches, et gérer des données.
 </pre>
 
-### Formations  
-Acquisition des bases et avancées en Python, gestion de versions avec Git, scripting Shell pour automatisation, et introduction à ABL pour environnements spécifiques.
+### Technologies  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![ABL](https://img.shields.io/badge/-ABL-0078D7?style=for-the-badge&logo=progress&logoColor=white)
 
+### Formations  
+Acquisition des bases et avancées en Python, gestion de versions avec Git, scripting Shell pour automatisation, et introduction à ABL pour environnements spécifiques.
+
 ### Projets  
 Développement de scripts et outils dans le cadre de formations ciblées, permettant l’automatisation de processus et la manipulation de données complexes.
 
 ### Organisations  
-[<img src="https://github.com/HarmonyFidelis-Software.png" width="200" alt="HarmonyFidelis-Software" />](https://github.com/HarmonyFidelis-Software)
+| Logo | Nom de l'organisation | Description | Lien |
+|------|------------------------|-------------|------|
+| [![HFS](https://github.com/HarmonyFidelis-Software.png)](https://github.com/HarmonyFidelis-Software) | HarmonyFidelis-Software | Projets logiciels personnels automatisation et scripting. | [🔗 Accéder](https://github.com/HarmonyFidelis-Software) |
 
 ---
 
 ## 🤖 Intelligence Artificielle & Automation
 
+<pre>
+Ce domaine regroupe les technologies d’IA et d’automatisation permettant de créer des systèmes intelligents pour analyser, 
+générer du contenu, ou automatiser des workflows complexes.
+</pre>
+
+### Technologies  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-3B82F6?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-FF6F61?style=for-the-badge&logo=make&logoColor=white)
 ![Seart](https://img.shields.io/badge/Seart-0099FF?style=for-the-badge&logo=artstation&logoColor=white)
 ![Midjourney](https://img.shields.io/badge/Midjourney-FF007A?style=for-the-badge&logo=midjourney&logoColor=white)
-
-<pre>
-Ce domaine regroupe les technologies d’IA et d’automatisation permettant de créer des systèmes intelligents pour analyser, 
-générer du contenu, ou automatiser des workflows complexes.
-</pre>
 
 ### Formations  
 Exploration des fondamentaux de l’IA, apprentissage des frameworks d’API, et maîtrise des plateformes d’automatisation no-code/low-code.
@@ -101,19 +108,22 @@ Exploration des fondamentaux de l’IA, apprentissage des frameworks d’API, et
 Mise en place de bots, workflows automatisés, et génération de contenus dans le cadre de projets pédagogiques et d’apprentissage.
 
 ### Organisations  
-Collaboration au sein de communautés et plateformes open source, notamment via les projets [HarmonyFidelis-AI](https://github.com/HarmonyFidelis-AI).
+| Logo | Nom de l'organisation | Description | Lien |
+|------|------------------------|-------------|------|
+| [![HFAI](https://github.com/HarmonyFidelis-AI.png)](https://github.com/HarmonyFidelis-AI) | HarmonyFidelis-AI | Projets et expérimentations en intelligence artificielle et automation. | [🔗 Accéder](https://github.com/HarmonyFidelis-AI) |
 
 ---
 
 ## 💰 Finance & Crypto
 
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 <pre>
 Ce domaine inclut la gestion financière, l’investissement, la cryptomonnaie, et les outils analytiques pour optimiser les portefeuilles, suivre les marchés et gérer les risques.
 </pre>
+
+### Technologies  
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Formations  
 Formations en analyse financière, gestion de portefeuille, utilisation avancée d’Excel et Power BI pour la visualisation et le suivi des actifs.
@@ -122,29 +132,32 @@ Formations en analyse financière, gestion de portefeuille, utilisation avancée
 Création d’outils d’analyse et simulation de stratégies dans le cadre de cours et apprentissages spécialisés en finance et crypto.
 
 ### Organisations  
-[<img src="https://github.com/HarmonyFidelis-Finances.png" width="200" alt="HarmonyFidelis-Finances" />](https://github.com/HarmonyFidelis-Finances)
+| Logo | Nom de l'organisation | Description | Lien |
+|------|------------------------|-------------|------|
+| [![HFF](https://github.com/HarmonyFidelis-Finances.png)](https://github.com/HarmonyFidelis-Finances) | HarmonyFidelis-Finances | Gestion et analyse financière et crypto. | [🔗 Accéder](https://github.com/HarmonyFidelis-Finances) |
 
 ---
 
 ## 🧊 Modélisation & 3D
-
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 <pre>
 Ce domaine concerne la création et l’animation de modèles 3D, en utilisant des outils comme Blender. Il englobe la modélisation,
 le texturing, et le rendu pour jeux vidéo, animation ou visualisation.
 </pre>
 
+### Technologies  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
 ### Formations  
 Cours et tutoriels approfondis sur Blender, apprentissage des techniques de modélisation, animation, et texturing.
-
-[![Blender](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Blender-Basics)](https://github.com/AlchTech/Blender)
 
 ### Projets  
 Modèles et animations réalisés dans le cadre d’apprentissages spécifiques, exercices de texturing et rendu photoréaliste.
 
 ### Organisations  
-[<img src="https://github.com/HarmonyFidelis-3D.png" width="200" alt="HarmonyFidelis-3D" />](https://github.com/HarmonyFidelis-3D)
+| Logo | Nom de l'organisation | Description | Lien |
+|------|------------------------|-------------|------|
+| [![HF3D](https://github.com/HarmonyFidelis-3D.png)](https://github.com/HarmonyFidelis-3D) | HarmonyFidelis-3D | Projets personnels de modélisation et animation 3D. | [🔗 Accéder](https://github.com/HarmonyFidelis-3D) |
 
 ---
 
