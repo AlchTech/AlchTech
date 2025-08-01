@@ -24,12 +24,17 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 - [💻 Développement Web](#-développement-web)
 - [🧠 Développement Logiciel](#-développement-logiciel)
 - [🧊 Modélisation & 3D](#-modélisation--3d)
-- [Contact](#contact)
-- [Support](#support)
+- [📞 Contact](#-contact)
+- [💖 Support](#-support)
 
 ---
 
 ## 💻 Développement Web
+
+<pre>
+Ce domaine couvre la conception et la réalisation de sites et applications web, en utilisant des technologies comme HTML, CSS, JavaScript, PHP, et bases de données. 
+Il englobe la création d’interfaces interactives, performantes et accessibles.
+</pre>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -39,7 +44,7 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Prestashop](https://img.shields.io/badge/-Prestashop-FF3366?style=for-the-badge&logo=prestashop&logoColor=white)
 
-### 📚 Formations
+### Formations
 [![HTML](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)](https://github.com/AlchTech/HTML)
 
 ### Projets
@@ -50,6 +55,11 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 ---
 
 ## 🧠 Développement Logiciel
+
+<pre>
+Ce domaine se concentre sur la création de logiciels, scripts et outils informatiques pour résoudre des problèmes, automatiser des tâches, et gérer des données. 
+Il inclut la programmation orientée objet, le versionnage, et les langages comme Python, Shell, ABL.
+</pre>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -67,6 +77,10 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 ---
 
 ## 🤖 Intelligence Artificielle & Automation
+<pre>
+Ce domaine regroupe les technologies d’IA et d’automatisation permettant de créer des systèmes intelligents pour analyser, générer du contenu, ou automatiser des workflows complexes.
+Les outils incluent OpenAI, Claude, plateformes d’automatisation comme Make, et générateurs d’images comme Midjourney.
+</pre>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-3B82F6?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -84,6 +98,10 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 
 ## 💰 Finance & Crypto
 
+<pre>
+Ce domaine inclut la gestion financière, l’investissement, la cryptomonnaie, et les outils analytiques pour optimiser les portefeuilles, suivre les marchés et gérer les risques.
+</pre>
+
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -100,6 +118,10 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 
 ## 🧊 Modélisation & 3D
 
+<pre>
+Ce domaine concerne la création et l’animation de modèles 3D, en utilisant des outils comme Blender. Il englobe la modélisation, le texturing, et le rendu pour jeux vidéo, animation ou visualisation.
+</pre>
+
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ### Formations
@@ -110,16 +132,22 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 ### Organisations
 [<img src="https://github.com/HarmonyFidelis-3D.png" width="200" alt="HarmonyFidelis-3D" />](https://github.com/HarmonyFidelis-3D)
 
----
+## 📞 Contact
 
-## Contact
+<pre>
+Retrouvez ici mes moyens de contact professionnels pour échanger ou collaborer.
+</pre>
 
 [![Email](https://img.shields.io/badge/Email-D%C3%A9marrer%20un%20email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harmonyfidelis@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jérémy-saletteswozniak/)
 
 ---
 
-## Support
+## 💖 Support
+
+<pre>
+Soutenez mes projets via les plateformes Patreon et PayPal.
+</pre>
 
 [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/preview/campaign?u=69467720&fan_landing=true&view_as=public)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=LCNUQKQAJL5VS)
