@@ -21,33 +21,15 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 
 ## Table des Matières
 
-- [Projets](#projets)
-  - [💻 Développement Web](#-développement-web)
-    - [📚 Formations](#-formations)
-    - [🧪 Projets](#-projets-1)
-    - [🏛️ Organisations](#️-organisations)
-  - [🧠 Développement Logiciel](#-développement-logiciel)
-    - [📚 Formations](#-formations-1)
-    - [🧪 Projets](#-projets-2)
-    - [🏛️ Organisations](#️-organisations-1)
-  - [💰 Finance & Crypto](#-finance--crypto)
-    - [📚 Formations](#-formations-2)
-    - [🧪 Projets](#-projets-3)
-    - [🏛️ Organisations](#️-organisations-2)
-  - [🧊 Modélisation & 3D](#-modélisation--3d)
-    - [📚 Formations](#-formations-3)
-    - [🧪 Projets](#-projets-4)
-    - [🏛️ Organisations](#️-organisations-3)
+- [💻 Développement Web](#-développement-web)
+- [🧠 Développement Logiciel](#-développement-logiciel)
+- [🧊 Modélisation & 3D](#-modélisation--3d)
 - [Contact](#contact)
 - [Support](#support)
 
 ---
 
-## Projets
-
-<img src="./assets/images/containers.png" alt="Projets" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;">
-
-### 💻 Développement Web
+## 💻 Développement Web
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -57,59 +39,75 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Prestashop](https://img.shields.io/badge/-Prestashop-FF3366?style=for-the-badge&logo=prestashop&logoColor=white)
 
-#### 📚 Formations
+### 📚 Formations
 [![HTML](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)](https://github.com/AlchTech/HTML)
 
-#### 🧪 Projets
+### Projets
 
-#### 🏛️ Organisations
+### Organisations
 [<img src="https://github.com/HarmonyFidelis-Web.png" width="200" alt="HarmonyFidelis-Web" />](https://github.com/HarmonyFidelis-Web)
 
 ---
 
-### 🧠 Développement Logiciel
+## 🧠 Développement Logiciel
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![ABL](https://img.shields.io/badge/-ABL-0078D7?style=for-the-badge&logo=progress&logoColor=white)
 
-#### 📚 Formations
+### Formations
 [![Python Base](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Python-Intro)](https://github.com/AlchTech/Python-Intro)
 
-#### 🧪 Projets
+### Projets
 
-#### 🏛️ Organisations
+### Organisations
 [<img src="https://github.com/HarmonyFidelis-Software.png" width="200" alt="HarmonyFidelis-Software" />](https://github.com/HarmonyFidelis-Software)
 
 ---
 
-### 💰 Finance & Crypto
+## 🤖 Intelligence Artificielle & Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-3B82F6?style=for-the-badge&logo=anthropic&logoColor=white)
+![Make](https://img.shields.io/badge/Make-FF6F61?style=for-the-badge&logo=make&logoColor=white)
+![Seart](https://img.shields.io/badge/Seart-0099FF?style=for-the-badge&logo=artstation&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-FF007A?style=for-the-badge&logo=midjourney&logoColor=white)
+
+## Formations
+
+### Projets
+
+### Organisations
+
+--- 
+
+## 💰 Finance & Crypto
 
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-#### 📚 Formations
+### Formations
 
-#### 🧪 Projets
+### Projets
 
-#### 🏛️ Organisations
+### Organisations
 [<img src="https://github.com/HarmonyFidelis-Finances.png" width="200" alt="HarmonyFidelis-Finances" />](https://github.com/HarmonyFidelis-Finances)
 
 ---
 
-### 🧊 Modélisation & 3D
+## 🧊 Modélisation & 3D
 
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-#### 📚 Formations
+### Formations
 [![Blender](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Blender-Basics)](https://github.com/AlchTech/Blender)
 
-#### 🧪 Projets
+### Projets
 
-#### 🏛️ Organisations
+### Organisations
 [<img src="https://github.com/HarmonyFidelis-3D.png" width="200" alt="HarmonyFidelis-3D" />](https://github.com/HarmonyFidelis-3D)
 
 ---
