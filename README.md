@@ -62,7 +62,7 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 
 #### 🧪 Projets
 
-#### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
+#### 🏛️ Organisations
 [<img src="https://github.com/HarmonyFidelis-Web.png" width="200" alt="HarmonyFidelis-Web" />](https://github.com/HarmonyFidelis-Web)
 
 ---
@@ -79,7 +79,7 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 
 #### 🧪 Projets
 
-#### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
+#### 🏛️ Organisations
 [<img src="https://github.com/HarmonyFidelis-Software.png" width="200" alt="HarmonyFidelis-Software" />](https://github.com/HarmonyFidelis-Software)
 
 ---
@@ -95,7 +95,7 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 
 #### 🧪 Projets
 
-#### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
+#### 🏛️ Organisations
 [<img src="https://github.com/HarmonyFidelis-Finances.png" width="200" alt="HarmonyFidelis-Finances" />](https://github.com/HarmonyFidelis-Finances)
 
 ---
@@ -109,7 +109,7 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 
 #### 🧪 Projets
 
-#### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
+#### 🏛️ Organisations
 [<img src="https://github.com/HarmonyFidelis-3D.png" width="200" alt="HarmonyFidelis-3D" />](https://github.com/HarmonyFidelis-3D)
 
 ---
