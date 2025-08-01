@@ -23,12 +23,8 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 ## Table des Matières
 
 - [Projets](#projets)
-    - [Tutoriel](#tutoriel)
-    - [Développement Web](#développement-web)
-    - [Développement d'application](#développement-dapplication)
-    - [Développement mobile](#développement-mobile)
-    - [3D](#3d)
-    - [Jeux Vidéo](#jeux-vidéo)
+    - [Formations](#Formations)
+        - [Développement Web](#développement-web)
 - [Contact](#contact)
 - [Support](#support)
 
@@ -49,7 +45,7 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 
 ### 📚 Formations
 
-[![HTML5](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)]([https://github.com/AlchTech/Finance-App](https://github.com/AlchTech/HTML))
+[![HTML5](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)](https://github.com/AlchTech/HTML)
 
 ### 🧪 Projets
 
