@@ -1,8 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/AlchTech?label=Follow&style=for-the-badge)](https://github.com/AlchTech) 
 ![GitHub stars](https://img.shields.io/github/stars/AlchTech?style=for-the-badge)
-[![Email](https://img.shields.io/badge/Email-harmonyfidelis@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harmonyfidelis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-saletteswozniak/)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/harmonyfidelis)
 
 # Bonjour, je suis  Jérémy Salettes-Wozniak
 
@@ -43,16 +40,69 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 📚 Formations
+### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+[![HTML](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)](https://github.com/AlchTech/HTML)
 
-[![HTML5](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)](https://github.com/AlchTech/HTML)
+### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+[![Finance-App](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Finance-App)](https://github.com/AlchTech/Finance-App)
 
-### 🧪 Projets
+### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
+[![HF Dev Web](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=DevWebOrg)](https://github.com/AlchTech/DevWebOrg)
 
-### 🏛️ Organisations
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[![HF Développement Web](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)]([https://github.com/AlchTech/Finance-App](https://github.com/AlchTech/HTML))
-  
+## 🧠 Développement Logiciel
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+[![Python Base](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Python-Intro)](https://github.com/AlchTech/Python-Intro)
+
+### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+[![CLI Tool](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=CLITool)](https://github.com/AlchTech/CLITool)
+
+### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
+[![HF Dev Logiciel](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=DevSoftOrg)](https://github.com/AlchTech/DevSoftOrg)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💰 Finance & Crypto
+
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+[![Crypto101](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Crypto101)](https://github.com/AlchTech/Crypto101)
+
+### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+[![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Finance-Tracker)](https://github.com/AlchTech/Finance-Tracker)
+
+### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
+[![HF Finance](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=FinanceOrg)](https://github.com/AlchTech/FinanceOrg)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🧊 Modélisation & 3D
+
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Substance 3D](https://img.shields.io/badge/-Substance3D-000000?style=for-the-badge&logo=adobe&logoColor=white)
+
+### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+[![Blender Basics](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Blender-Basics)](https://github.com/AlchTech/Blender-Basics)
+
+### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+[![3D Assets](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=3D-Assets)](https://github.com/AlchTech/3D-Assets)
+
+### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
+[![HF 3D](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HF-3D)](https://github.com/AlchTech/HF-3D)
+
 ---
 
 ## Contact
