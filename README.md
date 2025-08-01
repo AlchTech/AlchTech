@@ -29,7 +29,7 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 
 ---
 
-<img src="./assets/images/web.png" alt="Bannière Web" class="img-responsive" style="width: 100%; height: 15rem; display: block; object-fit: cover;">
+
 
 ---
 
