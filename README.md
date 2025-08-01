@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/AlchTech?label=Follow&style=for-the-badge)](https://github.com/AlchTech) 
+[![GitHub followers](https://img.shields.io/github/followers/AlchTech?label=Follow&style=for-the-badge)](https://github.com/AlchTech)
 ![GitHub stars](https://img.shields.io/github/stars/AlchTech?style=for-the-badge)
 
 # Bonjour, je suis Jérémy Salettes-Wozniak
@@ -57,10 +57,10 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Prestashop](https://img.shields.io/badge/-Prestashop-FF3366?style=for-the-badge&logo=prestashop&logoColor=white)
 
-#### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+#### 📚 Formations
 [![HTML](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)](https://github.com/AlchTech/HTML)
 
-#### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+#### 🧪 Projets
 
 #### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
 [<img src="https://github.com/HarmonyFidelis-Web.png" width="200" alt="HarmonyFidelis-Web" />](https://github.com/HarmonyFidelis-Web)
@@ -74,10 +74,10 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![ABL](https://img.shields.io/badge/-ABL-0078D7?style=for-the-badge&logo=progress&logoColor=white)
 
-#### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+#### 📚 Formations
 [![Python Base](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Python-Intro)](https://github.com/AlchTech/Python-Intro)
 
-#### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+#### 🧪 Projets
 
 #### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
 [<img src="https://github.com/HarmonyFidelis-Software.png" width="200" alt="HarmonyFidelis-Software" />](https://github.com/HarmonyFidelis-Software)
@@ -91,9 +91,9 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-#### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+#### 📚 Formations
 
-#### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+#### 🧪 Projets
 
 #### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
 [<img src="https://github.com/HarmonyFidelis-Finances.png" width="200" alt="HarmonyFidelis-Finances" />](https://github.com/HarmonyFidelis-Finances)
@@ -104,10 +104,10 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-#### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+#### 📚 Formations
 [![Blender](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Blender-Basics)](https://github.com/AlchTech/Blender)
 
-#### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
+#### 🧪 Projets
 
 #### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
 [<img src="https://github.com/HarmonyFidelis-3D.png" width="200" alt="HarmonyFidelis-3D" />](https://github.com/HarmonyFidelis-3D)
@@ -116,12 +116,12 @@ Mon objectif est d'élargir constamment mes compétences tout en intégrant mes 
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-D%C3%A9marrer%20un%20email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harmonyfidelis@email.com)  
+[![Email](https://img.shields.io/badge/Email-D%C3%A9marrer%20un%20email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harmonyfidelis@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jérémy-saletteswozniak/)
 
 ---
 
 ## Support
 
-[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/preview/campaign?u=69467720&fan_landing=true&view_as=public)  
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/preview/campaign?u=69467720&fan_landing=true&view_as=public)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=LCNUQKQAJL5VS)
