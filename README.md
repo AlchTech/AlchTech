@@ -39,6 +39,7 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Prestashop](https://img.shields.io/badge/-Prestashop-FF3366?style=for-the-badge&logo=prestashop&logoColor=white)
 
 ### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
 [![HTML](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HTML)](https://github.com/AlchTech/HTML)
@@ -46,17 +47,22 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 ### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
 
 ### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
-[![HarmonyFidelis-Web](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HarmonyFidelis-Web)](https://github.com/HarmonyFidelis-Web)
+[<img src="https://github.com/HarmonyFidelis-Web.png" width="200" />](https://github.com/HarmonyFidelis-Web)
+
+
+
+
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🧠 Développement Logiciel
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![ABL](https://img.shields.io/badge/-ABL-0078D7?style=for-the-badge&logo=progress&logoColor=white)
+
 
 ### 📚 Formations ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
 [![Python Base](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=Python-Intro)](https://github.com/AlchTech/Python-Intro)
@@ -64,7 +70,8 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 ### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
 
 ### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
-[![HarmonyFidelis-Software](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HarmonyFidelis-Software)](https://github.com/HarmonyFidelis-Software)
+[<img src="https://github.com/HarmonyFidelis-Software.png" width="200" />](https://github.com/HarmonyFidelis-Software)
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -80,7 +87,8 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 ### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
 
 ### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
-[![HarmonyFidelis-Finances](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HarmonyFidelis-Finances)](https://github.com/HarmonyFidelis-Finances)
+[<img src="https://github.com/HarmonyFidelis-Finances.png" width="200" />](https://github.com/HarmonyFidelis-Finances)
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -94,7 +102,7 @@ Mon objectif est de continuer à élargir mes connaissances et compétences dans
 ### 🧪 Projets ![Public](https://img.shields.io/badge/-Public-brightgreen?style=flat-square)
 
 ### 🏛️ Organisations ![Privé](https://img.shields.io/badge/-Privé-red?style=flat-square)
-[![HarmonyFidelis-3D](https://github-readme-stats.vercel.app/api/pin/?username=AlchTech&repo=HarmonyFidelis-3D)](https://github.com/HarmonyFidelis-3D)
+[<img src="https://github.com/HarmonyFidelis-3D.png" width="200" />](https://github.com/HarmonyFidelis-3D)
 
 ---
 
